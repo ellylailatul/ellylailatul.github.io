@@ -1,0 +1,5 @@
+{ "dependencies": { "jsdom": "^25.0.1" }, "name": "ellylailatul.github.io", "module": "index.ts", "type": "module", "devDependencies": {
+  "@types/bun": "latest"
+}, "peerDependencies": {
+  "typescript": "^5.0.0"
+} }
